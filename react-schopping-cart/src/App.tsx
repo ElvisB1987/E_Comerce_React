@@ -13,6 +13,7 @@ import { Wrapper, StyledButton } from './App.styles';
 
 //Types
 
+
 export type CartItemType = {
   id: number;
   categoty: string;
